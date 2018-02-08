@@ -33,3 +33,5 @@
 
 #crtf and key
 *.pem
+/sample/libuv-tls/evt
+/test_evt

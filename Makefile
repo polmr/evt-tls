@@ -19,5 +19,5 @@ test:
 	./test_evt
 
 clean:
-	make -C sample/libuv-tls clean
+	#make -C sample/libuv-tls clean
 	-rm test_evt
